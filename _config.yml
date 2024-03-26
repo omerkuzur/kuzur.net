@@ -1,11 +1,11 @@
 # Your Name or Company
-title: Omer Kuzur
+title: Ömer Kuzur
 
 # Description of your website. This is used for social sharing.
-description:  Omer Kuzur Blog
+description:  Ömer Kuzur Blog
 
 # A brief blurb about yourself
-content: Trabzonspor
+content: Computer Engineer
 
 # Add your social links
 social:
@@ -16,11 +16,9 @@ social:
   - platform: twitter
     url: https://twitter.com/omerkuzur
   - platform: linkedin
-    url: omerkuzur
+    url:  https://linkedin.com/omerkuzur
 
-# General settings
-# url: http://brianmaierjr.github.com/uni
-# baseurl: "/uni" 
+
 markdown: kramdown
 sharing_image: share.jpg
 google_analytics: "UA-58263416-1" # google analytics tracking
