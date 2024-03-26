@@ -18,7 +18,9 @@ social:
   - platform: linkedin
     url:  https://linkedin.com/omerkuzur
 
-
+# General settings
+# url: http://brianmaierjr.github.com/uni
+# baseurl: "/uni" 
 markdown: kramdown
 sharing_image: share.jpg
 google_analytics: "UA-58263416-1" # google analytics tracking
